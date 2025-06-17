@@ -16,9 +16,9 @@ Play against a friend directly in your browser — it's lightweight, fast, and f
 
 ## 🔹Screenshots
 
-![Screenshot 1](https://imgur.com/7diOc0E)
-![Screenshot 2](https://imgur.com/0qW5jA5)
-![Screenshot 3](https://imgur.com/cvfcWrL)
+![Screenshot 1](https://i.imgur.com/7diOc0E.jpg)
+![Screenshot 2](https://i.imgur.com/0qW5jA5.jpg)
+![Screenshot 3](https://i.imgur.com/cvfcWrL.jpg)
 
 ---
 
